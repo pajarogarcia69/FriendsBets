@@ -1,0 +1,6 @@
+@FriendsBets.BackEnd_HostAddress = http://localhost:5258
+
+GET {{FriendsBets.BackEnd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
